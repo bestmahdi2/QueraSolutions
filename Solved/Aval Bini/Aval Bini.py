@@ -4,17 +4,6 @@
 # https://b2n.ir/f91551
 
 a, b = int(input()), int(input())
-# lister = []
-# if a < b:
-#     for i in range(a+1, b):
-#         for j in range(2, i//2):
-#             if i % j == 0:
-#                 break
-#         else:
-#             lister.append(str(i))
-#     print(",".join(lister))
-# else:
-#     print(a)
 
 result = ""
 for i in range(a+1, b):
@@ -29,3 +18,5 @@ for i in range(a+1, b):
         result += "," + str(i)
 
 print(result)
+
+###########################################################

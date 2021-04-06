@@ -48,34 +48,47 @@
 11 | 616 | [توان دو](https://b2n.ir/083186) | دانشگاهی | [Python](Solved/Tavan%20Do) | 
 12 | 617 | [عدد خودمقلوب](https://b2n.ir/932882) | دانشگاهی | [Python](Solved/Adade%20Khod%20Maghloob) | 
 13 | 618 | [چاپ لوزی](https://b2n.ir/304206) | دانشگاهی | [Python](Solved/Chape%20Lozi) | 
-14 | 655 | [فرزاد فیلم بین](https://b2n.ir/t13786) | دانشگاهی | [Python](Solved/Farzade%20Filmbin) | 
-15 | 2636 | [شطرنج حرفه‌ای](https://b2n.ir/571633) | مسابقه | [Python](Solved/Shatranje%20Herfei) | 
-16 | 2885 | [سوال زرد](https://b2n.ir/222646) | مسابقه | [Python](Solved/Soale%20Zard) | 
-17 | 2885 | [یک سوال ساده](https://b2n.ir/473372) | مسابقه | [Python](Solved/Yek%20Soale%20Sade) | 
-18 | 3405 | [چاپ برعکس](https://b2n.ir/637768) | مسابقه | [Python](Solved/Chape%20Baraks) | 
-19 | 3406 | [صدگان خسته](https://b2n.ir/957810) | مسابقه | [Python](Solved/Sadegane%20Khaste) | 
-20 | 3409 | [جدول ضرب گنده](https://b2n.ir/608271) | مسابقه | [Python](Solved/Jadval%20Zarbe%20Gonde) | 
-21 | 3414 | [دو نقطه خط](https://b2n.ir/n47769) | مسابقه | [Python](Solved/Do%20Noghte%20Khat) | 
-22 | 3429 | [یخدارچی](https://b2n.ir/773396) | مسابقه | [Python](Solved/Yakhdarchi) | 
-23 | 3538 | [آخ جون طرف نیست!](https://b2n.ir/s82371) | مسابقه | [Python](Solved/Akh%20joon%20Taraf%20Nist) | 
-24 | 3539 | [تک رقمی](https://b2n.ir/066773) | مسابقه | [Python](Solved/Tak%20Raghami) | 
-25 | 4065 | [خر در چمن فراوونه](https://b2n.ir/627599) | مسابقه | [C++, Python](Solved/Khar%20dar%20chaman%20faravoone) | 
-26 | 8838 | [کمک به کاپی](https://b2n.ir/718957) | مسابقه | [Python](Solved/Komak%20Be%20Copy) | 
-27 | 9773 | [لوزی های ستاره ای](https://b2n.ir/y21327) | دانشگاهی | [Python](Solved/Lozi%20Haye%20Setareee) | 
-28 | 9774 | [عدد چاپ کن](https://b2n.ir/593554) | دانشگاهی | [Python](Solved/Adad%20Chap%20Kon) | 
-29 | 10162 | [روز آزادی بیان در برره](https://b2n.ir/063396) | مسابقه | [Python](Solved/Rooze%20Azadi%20Bayan%20Da%20Barare) | 
-30 | 10230 | [مشق امشب باقر](https://b2n.ir/y28651) | مسابقه | [Python](Solved/Mashghe%20Emshabe%20Bagher) | 
-31 | 10325 | [همایش زندگی بهتر](https://b2n.ir/832593) | مسابقه | [Python](Solved/Hamayeshe%20Zandegi%20Behtar) | 
-32 | 20256 | [رژیم سخت](https://b2n.ir/t20497) | مسابقه | [Python](Solved/Rezhime%20Sakht) | 
-33 | 51865 | [بهداشت و سلامت](https://b2n.ir/064854) | مسابقه | [Python](Solved/Behdasht%20va%20Salamat) | 
-34 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) | 
-35 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) | 
-36 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) | 
-37 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) | 
-38 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) | 
-39 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) | 
-40 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) | 
-41 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) | 
+14 | 649 | [اول بینی](https://b2n.ir/f91551) | دانشگاهی | [Python](Solved/Aval%20Bini) | 
+15 | 655 | [فرزاد فیلم بین](https://b2n.ir/t13786) | دانشگاهی | [Python](Solved/Farzade%20Filmbin) | 
+16 | 2636 | [شطرنج حرفه‌ای](https://b2n.ir/571633) | مسابقه | [Python](Solved/Shatranje%20Herfei) | 
+17 | 2659 | [تست بینایی](https://b2n.ir/997305) | مسابقه | [Python](Solved/Teste%20Binaei) | 
+18 | 2885 | [سوال زرد](https://b2n.ir/222646) | مسابقه | [Python](Solved/Soale%20Zard) | 
+19 | 2885 | [یک سوال ساده](https://b2n.ir/473372) | مسابقه | [Python](Solved/Yek%20Soale%20Sade) | 
+20 | 3403 | [ساده تر](https://b2n.ir/r02497) | مسابقه | [Python](Solved/Sade%20Tar) | 
+21 | 3404 | [تو چقدر اضافه وزن داری؟](https://b2n.ir/785885) | مسابقه | [Python](Solved/To%20Cheghadr%20Ezafe%20Vazn%20Dari) | 
+22 | 3405 | [چاپ برعکس](https://b2n.ir/637768) | مسابقه | [Python](Solved/Chape%20Baraks) | 
+23 | 3406 | [صدگان خسته](https://b2n.ir/957810) | مسابقه | [Python](Solved/Sadegane%20Khaste) | 
+24 | 3408 | [سوال برنامه نویسی برنامه نویسی سوال](https://b2n.ir/w27089) | مسابقه | [Python](Solved/Soale%20Barname%20Nevisi%20Barname%20Nevisi%20Soal) | 
+25 | 3409 | [جدول ضرب گنده](https://b2n.ir/608271) | مسابقه | [Python](Solved/Jadval%20Zarbe%20Gonde) | 
+26 | 3414 | [دو نقطه خط](https://b2n.ir/n47769) | مسابقه | [Python](Solved/Do%20Noghte%20Khat) | 
+27 | 3429 | [یخدارچی](https://b2n.ir/773396) | مسابقه | [Python](Solved/Yakhdarchi) | 
+28 | 3430 | [بلندگو](https://b2n.ir/651861) | مسابقه | [Python](Solved/Bolandgoo) | 
+29 | 3538 | [آخ جون طرف نیست!](https://b2n.ir/s82371) | مسابقه | [Python](Solved/Akh%20joon%20Taraf%20Nist) | 
+30 | 3539 | [تک رقمی](https://b2n.ir/066773) | مسابقه | [Python](Solved/Tak%20Raghami) | 
+31 | 4065 | [خر در چمن فراوونه](https://b2n.ir/627599) | مسابقه | [C++, Python](Solved/Khar%20dar%20chaman%20faravoone) | 
+32 | 6082 | [آسمان شکر آباد](https://b2n.ir/k26599) | مسابقه | [Python](Solved/Asemane%20Shekar%20Abad) | 
+33 | 8838 | [کمک به کاپی](https://b2n.ir/718957) | مسابقه | [Python](Solved/Komak%20Be%20Copy) | 
+34 | 9773 | [لوزی های ستاره ای](https://b2n.ir/y21327) | دانشگاهی | [Python](Solved/Lozi%20Haye%20Setareee) | 
+35 | 9774 | [عدد چاپ کن](https://b2n.ir/593554) | دانشگاهی | [Python](Solved/Adad%20Chap%20Kon) | 
+36 | 10162 | [روز آزادی بیان در برره](https://b2n.ir/063396) | مسابقه | [Python](Solved/Rooze%20Azadi%20Bayan%20Da%20Barare) | 
+37 | 10230 | [مشق امشب باقر](https://b2n.ir/y28651) | مسابقه | [Python](Solved/Mashghe%20Emshabe%20Bagher) | 
+38 | 10231 | [خُب باقر سرما خورده](https://b2n.ir/e33907) | مسابقه | [Python](Solved/Khob%20Bagher%20Sarma%20Khorde) | 
+39 | 10325 | [همایش زندگی بهتر](https://b2n.ir/832593) | مسابقه | [Python](Solved/Hamayeshe%20Zandegi%20Behtar) | 
+40 | 10326 | [استارت-آپ باکلاس](https://b2n.ir/m53560) | مسابقه | [Python](Solved/Start-Up%20Bakelas) | 
+41 | 17244 | [شارژ موبایل](https://b2n.ir/040446) | مسابقه | [Python](Solved/Sharzhe%20Mobile) | 
+42 | 17675 | [رشته فیبوناچی](https://b2n.ir/055190) | مسابقه | [Python](Solved/Reshte%20Fibonacci) | 
+43 | 20256 | [رژیم سخت](https://b2n.ir/t20497) | مسابقه | [Python](Solved/Rezhime%20Sakht) | 
+44 | 28947 | [ام‌سین](https://b2n.ir/t37594) | مسابقه | [Python](Solved/EmSin) | 
+45 | 31025 | [صبا و سوال ساده](https://b2n.ir/585297) | مسابقه | [Python](Solved/Saba%20va%20Soale%20Sade) | 
+46 | 51865 | [بهداشت و سلامت](https://b2n.ir/064854) | مسابقه | [Python](Solved/Behdasht%20va%20Salamat) | 
+47 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) | 
+48 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) | 
+49 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) | 
+50 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) | 
+51 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) | 
+52 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) | 
+53 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) | 
+54 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) | 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست)
 
@@ -90,9 +103,10 @@
 3 | 595 | [مثلث خیام](https://b2n.ir/w17445) | دانشگاهی | [Python](UnSolved/Mosalase%20Khayam) | 
 4 | 597 | [حلزون مختصاتی](https://b2n.ir/k79177) | دانشگاهی | [Python](UnSolved/Halazoone%20Mokhtasaati) | 
 5 | 640 | [نردبونی](https://b2n.ir/w31372) | دانشگاهی | [Python](UnSolved/Nardebooni) | 
-6 | 649 | [اول بینی](https://b2n.ir/f91551) | دانشگاهی | [Python](UnSolved/Aval%20Bini) | 
-7 | 651 | [مبنای آینه‌ای](https://b2n.ir/j40014) | دانشگاهی | [Python](UnSolved/Mabnaye%20Ayne) | 
-8 | 658 | [فرزاد کارکن](https://b2n.ir/s16305) | دانشگاهی | [Python](UnSolved/Farzade%20Karkon) | 
+6 | 651 | [مبنای آینه‌ای](https://b2n.ir/j40014) | دانشگاهی | [Python](UnSolved/Mabnaye%20Ayne) | 
+7 | 658 | [فرزاد کارکن](https://b2n.ir/s16305) | دانشگاهی | [Python](UnSolved/Farzade%20Karkon) | 
+8 | 3410 | [مثلث خیام پاسکال](https://b2n.ir/275292) | مسابقه | [Python](UnSolved/Mosalase%20Khayam%20Pascal) | 
+9 | 3540 | [گردو شکستم](https://b2n.ir/037440) | مسابقه | [Python](UnSolved/Gerdoo%20Shekastam) | 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست)
 
