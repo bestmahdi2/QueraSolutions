@@ -94,7 +94,7 @@
 54 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) | 
 55 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) | 
 
-[:back: بازگشت به فهرست](#mag_right-فهرست)
+[:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
 ***
 
@@ -116,7 +116,7 @@
 12 | 35253 | [هندونه‌خوری](https://b2n.ir/f48514) | مسابقه | [Python](UnSolved/Hendoone%20Khori) | 
 
 
-[:back: بازگشت به فهرست](#mag_right-فهرست)
+[:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
 
 ***
