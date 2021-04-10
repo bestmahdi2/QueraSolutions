@@ -41,7 +41,7 @@ jam = 0
 for x in range(1, N//2 + 1):
     if N % x == 0:
         jam += x
-if jam == N:
-    print("YES")
-else:
+if jam != N:
     print("NO")
+else:
+    print("YES")

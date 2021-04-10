@@ -27,7 +27,9 @@ for i in range(a, b+1):
             adad_aval = False
             break
     if adad_aval:
-        print(i)
+        if i != 1:
+            print(i)
+
 
 ###########################################################
 
