@@ -17,7 +17,7 @@ numbers = []
 for i in string:
     numbers.append(int(i))
 
-if i[1] <= 10:
-    print("Right %s %s" % (11 - i[0], i[1]))
+if numbers[1] <= 10:
+    print("Right %s %s" % (11 - numbers[0], numbers[1]))
 else:
-    print("Right %s %s" % (11 - i[0], 21 - i[1]))
+    print("Right %s %s" % (11 - numbers[0], 21 - numbers[1]))
