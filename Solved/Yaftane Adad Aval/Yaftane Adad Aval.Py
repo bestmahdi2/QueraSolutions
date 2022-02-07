@@ -7,8 +7,8 @@ n = input()
 b = sum([int(i) for i in n])
 
 x, keep = 0, 0
-for i in range(int(n)+1, 30000000):
-    for j in range(2, i//2+1):
+for i in range(int(n) + 1, 30000000):
+    for j in range(2, i // 2 + 1):
         if i % j == 0:
             break
     else:
@@ -19,4 +19,3 @@ for i in range(int(n)+1, 30000000):
 print(keep)
 
 ###########################################################
-

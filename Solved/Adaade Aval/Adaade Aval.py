@@ -6,7 +6,7 @@
 a = int(input())
 b = int(input())
 
-for i in range(a, b+1):
+for i in range(a, b + 1):
     adad_aval = True
     for x in range(2, i):
         if i % x == 0:
@@ -20,7 +20,7 @@ for i in range(a, b+1):
 a = int(input())
 b = int(input())
 
-for i in range(a, b+1):
+for i in range(a, b + 1):
     adad_aval = True
     for x in range(2, i):
         if i % x == 0:
@@ -30,13 +30,12 @@ for i in range(a, b+1):
         if i != 1:
             print(i)
 
-
 ###########################################################
 
 a = int(input())
 b = int(input())
 
-for i in range(a, b+1):
+for i in range(a, b + 1):
     for j in range(2, i):
         if i % j == 0:
             break

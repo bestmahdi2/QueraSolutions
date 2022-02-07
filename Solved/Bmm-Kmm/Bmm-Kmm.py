@@ -13,7 +13,7 @@ while m > 0:
     b = n % m
     n = m
     m = b
-print(n, n1 * m1//n)
+print(n, n1 * m1 // n)
 
 ###########################################################
 
@@ -21,7 +21,8 @@ string = input()
 n, m = sorted([int(i) for i in string.split(" ")])
 
 from math import gcd
-print(gcd(n, m), (n*m)//gcd(n, m))
+
+print(gcd(n, m), (n * m) // gcd(n, m))
 
 ###########################################################
 
@@ -31,7 +32,7 @@ n, m = sorted([int(i) for i in string.split(" ")])
 n1, m1 = n, m
 while m:
     n, m = m, n % m
-print(n, m1*n1//n)
+print(n, m1 * n1 // n)
 
 ###########################################################
 # doesn't get 100 :
@@ -46,7 +47,7 @@ for i in range(m, 0, -1):
         break
 kmm = m
 while True:
-   if kmm % m == 0 and kmm % n == 0:
-       break
-   kmm += 1
+    if kmm % m == 0 and kmm % n == 0:
+        break
+    kmm += 1
 print(bmm, kmm)

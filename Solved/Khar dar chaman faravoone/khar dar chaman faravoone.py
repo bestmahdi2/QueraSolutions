@@ -36,5 +36,3 @@ while count <= l:
     count += 1
 
 print(sums)
-
-

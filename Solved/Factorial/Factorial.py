@@ -29,7 +29,7 @@ n = int(input())
 hasel = 1
 
 x = 1
-while x < n+1:
+while x < n + 1:
     hasel = hasel * x
     x += 1
 print(hasel)
@@ -40,7 +40,7 @@ n = int(input())
 hasel = 1
 
 x = 1
-while x < n+1:
+while x < n + 1:
     hasel *= x
     x += 1
 print(hasel)

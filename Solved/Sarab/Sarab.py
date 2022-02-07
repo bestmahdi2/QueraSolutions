@@ -12,12 +12,12 @@ locs = [(0, 0)]
 k = 1
 for i in range(1, 15000):
     if i % 2 != 0:
-        locs.append((locs[i-1][0] + 1, locs[i-1][1] + 1))
+        locs.append((locs[i - 1][0] + 1, locs[i - 1][1] + 1))
     else:
         if k % 2 != 0:
-            locs.append((locs[i-1][0] + 1, locs[i-1][1] - 1))
+            locs.append((locs[i - 1][0] + 1, locs[i - 1][1] - 1))
         else:
-            locs.append((locs[i-1][0] - 1, locs[i-1][1] + 1))
+            locs.append((locs[i - 1][0] - 1, locs[i - 1][1] + 1))
         k += 1
 
 for i in keeper:
