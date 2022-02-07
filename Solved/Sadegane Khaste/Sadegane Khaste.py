@@ -8,7 +8,9 @@ b = input()
 
 if a == b:
     print(a, "=", b)
+
 elif int(a[::-1]) > int(b[::-1]):
     print(b, "<", a)
+
 else:
     print(a, "<", b)

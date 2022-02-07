@@ -7,4 +7,3 @@ x, y = [int(i) for i in input().split()]
 x1, y1 = [int(i) for i in input().split()]
 
 print("Right" if x1 > x else "Left")
-

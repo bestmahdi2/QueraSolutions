@@ -44,7 +44,7 @@ for i in voroodi:
         break
     x += 1
 kalame = voroodi[:x]
-character = voroodi[x+1:]
+character = voroodi[x + 1:]
 
 tedad = 0
 for i in range(len(kalame)):

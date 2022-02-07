@@ -4,6 +4,6 @@
 # https://b2n.ir/473372
 
 i = int(input())
-print("man khoshghlab hastam\n"*i)
+print("man khoshghlab hastam\n" * i)
 
 ###########################################################

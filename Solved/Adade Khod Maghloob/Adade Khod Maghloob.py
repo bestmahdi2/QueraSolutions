@@ -6,11 +6,11 @@
 n = input()
 
 if len(n) % 2 == 0:
-    part1 = n[:len(n)//2]
-    part2 = n[len(n)//2:]
+    part1 = n[:len(n) // 2]
+    part2 = n[len(n) // 2:]
 else:
-    part1 = n[:len(n)//2]
-    part2 = n[len(n)//2 + 1:]
+    part1 = n[:len(n) // 2]
+    part2 = n[len(n) // 2 + 1:]
 
 if part1 == part2[::-1]:
     print("YES")
@@ -22,11 +22,11 @@ else:
 n = input()
 
 if len(n) % 2 == 0:
-    part1 = n[:len(n)//2]
-    part2 = n[len(n)//2:]
+    part1 = n[:len(n) // 2]
+    part2 = n[len(n) // 2:]
 else:
-    part1 = n[:len(n)//2]
-    part2 = n[len(n)//2 + 1:]
+    part1 = n[:len(n) // 2]
+    part2 = n[len(n) // 2 + 1:]
 x = 0
 z = -1
 while x < len(part1):

@@ -6,7 +6,7 @@
 n = input()
 adad = 0
 
-x = len(n)-1
+x = len(n) - 1
 while 0 <= x:
     adad += int(n[x])
     x -= 1

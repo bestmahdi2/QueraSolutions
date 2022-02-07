@@ -4,6 +4,6 @@
 # https://b2n.ir/585297
 
 string = input().split()
-print(int(string[0])//2 ** int(string[1]))
+print(int(string[0]) // 2 ** int(string[1]))
 
 ###########################################################

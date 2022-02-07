@@ -33,9 +33,8 @@ for i in voroodi:
         adad = int(voroodi)
     else:
         fasele = voroodi.index(" ")
-        adad = int(voroodi[:fasele+1])
-        voroodi = voroodi[fasele+1:]
+        adad = int(voroodi[:fasele + 1])
+        voroodi = voroodi[fasele + 1:]
 
     if adad > maximum:
         maximum = adad
-

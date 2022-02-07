@@ -6,14 +6,14 @@
 string = input()
 
 for i in string:
-    print(f'{i}: {i*int(i)}')
+    print(f'{i}: {i * int(i)}')
 
 ###########################################################
 
 string = input()
 
 for i in string:
-    print("{0}: {1}".format(i, i*int(i)))
+    print("{0}: {1}".format(i, i * int(i)))
 
 ###########################################################
 

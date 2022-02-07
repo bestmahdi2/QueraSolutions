@@ -16,7 +16,6 @@ if jame_argham == int(n):
 else:
     print("NO")
 
-
 ###########################################################
 
 n = input()
@@ -51,12 +50,11 @@ if jame_adaad == int(n):
 else:
     print("NO")
 
-
 ###########################################################
 
 n = input()
 
-print("YES" if sum([int(i)**3 for i in n]) == int(n) else "NO")
+print("YES" if sum([int(i) ** 3 for i in n]) == int(n) else "NO")
 
 ###########################################################
 

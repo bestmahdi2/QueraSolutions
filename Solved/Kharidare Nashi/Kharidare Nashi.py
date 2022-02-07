@@ -14,8 +14,8 @@ if k % 2 != 0:
 elif k == m * n:
     print(-1)
 else:
-    for i in range(1, n+1):
-        for j in range(1, m+1):
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
             if [i, j] not in lister:
                 print(1, " ".join([str(i), str(j)]), sep="\n")
                 break
