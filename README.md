@@ -105,8 +105,8 @@
 63 | 20256 | [رژیم سخت](https://b2n.ir/t20497) | مسابقه | [Python](Solved/Rezhime%20Sakht) |
 64 | 28947 | [ام‌سین](https://b2n.ir/t37594) | مسابقه | [Python](Solved/EmSin) |
 65 | 31025 | [صبا و سوال ساده](https://b2n.ir/585297) | مسابقه | [Python](Solved/Saba%20va%20Soale%20Sade) |
-66 | 31025 | [چی‌سون؟](https://b2n.ir/r44722) | مسابقه | [Python](Solved/ChiSon) |
-67 | 33026 | [رنگ‌آمیزی مکعب - پایتون](https://b2n.ir/f61591) | technology | [Python](Solved/Rang%20Amizi%20Moka'ab) |
+66 | 31026 | [چی‌سون؟](https://b2n.ir/r44722) | مسابقه | [Python](Solved/ChiSon) |
+67 | 33034 | [رنگ‌آمیزی مکعب - پایتون](https://b2n.ir/f61591) | technology | [Python](Solved/Rang%20Amizi%20Moka'ab) |
 68 | 33045 | [مقسوم‌علیه‌های دردسرساز](https://b2n.ir/g99973) | مسابقه | [Python](Solved/Maghsoom%20Elayhaye%20Darde%20Sar%20Saz) |
 69 | 34081 | [دایره عجیب](https://b2n.ir/s60073) | مسابقه | [Python](Solved/Dayere%20Ajib) |
 70 | 35253 | [هندونه‌خوری](https://b2n.ir/f48514) | مسابقه | [Java, Python](Solved/HendooneKhori) |
@@ -117,21 +117,22 @@
 75 | 66863 | [کدمستر](https://b2n.ir/t11531) | دانشگاهی | [Python](Solved/Code%20Master) |
 76 | 66864 | [کلاس کد!](https://b2n.ir/t39304) | دانشگاهی | [Python](Solved/Class%20Code%20!) |
 77 | 87181 | [بازی کلمه‌ها](https://b2n.ir/n48725) | technology | [Python](Solved/Bazi%20Kalame%20Ha) |
-78 | 104589 | [جشنواره](https://b2n.ir/s18740) | مسابقه | [Python](Solved/Jashnvare) |
-79 | 123801 | [اتاق فرار](https://b2n.ir/a16684) | مسابقه | [Python](Solved/Otaghe%20Farar) |
-80 | 127290 | [دَنگ و دُنگ](https://b2n.ir/j65197) | مسابقه | [Python](Solved/Dang%20O%20Dong) |
-81 | 129728 | [تَخَطّی‌گَری](https://b2n.ir/b32744) | technology | [Python](Solved/Takhati%20Gari) |
-82 | 132247 | [The Good, the Bad and the Ugly (1966)](https://b2n.ir/u94929) | مسابقه | [Python](Solved/The%20Good,%20the%20Bad%20and%20the%20Ugly%20(1966)) |
-83 | 132251 | [The Departed (2006)](https://b2n.ir/h32113) | مسابقه | [Python](Solved/The%20Departed%20(2006)) |
-84 | 132252 | [Parquet (2020) ](https://b2n.ir/j06874) | مسابقه | [Python](Solved/Parquet) |
-85 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) |
-86 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) |
-87 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) |
-88 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) |
-89 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) |
-90 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) |
-91 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) |
-92 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) |
+78 | 102245 | [فشرده‌سازی خاص](https://b2n.ir/j98682) | مسابقه | [Python](Solved/FeshordeSazi%20Khas) |
+79 | 104589 | [جشنواره](https://b2n.ir/s18740) | مسابقه | [Python](Solved/Jashnvare) |
+80 | 123801 | [اتاق فرار](https://b2n.ir/a16684) | مسابقه | [Python](Solved/Otaghe%20Farar) |
+81 | 127290 | [دَنگ و دُنگ](https://b2n.ir/j65197) | مسابقه | [Python](Solved/Dang%20O%20Dong) |
+82 | 129728 | [تَخَطّی‌گَری](https://b2n.ir/b32744) | technology | [Python](Solved/Takhati%20Gari) |
+83 | 132247 | [The Good, the Bad and the Ugly (1966)](https://b2n.ir/u94929) | مسابقه | [Python](Solved/The%20Good,%20the%20Bad%20and%20the%20Ugly%20(1966)) |
+84 | 132251 | [The Departed (2006)](https://b2n.ir/h32113) | مسابقه | [Python](Solved/The%20Departed%20(2006)) |
+85 | 132252 | [Parquet (2020) ](https://b2n.ir/j06874) | مسابقه | [Python](Solved/Parquet) |
+86 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) |
+87 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) |
+88 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) |
+89 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) |
+90 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) |
+91 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) |
+92 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) |
+93 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) |
 [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
 ***
