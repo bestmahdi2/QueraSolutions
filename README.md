@@ -114,25 +114,26 @@
 72 | 49028 | [کلید چراغ](https://b2n.ir/080336) | مسابقه | [Python](Solved/Kelid%20Cheraagh) |
 73 | 49535 | [گزارش کار](https://b2n.ir/j07770) | مسابقه | [Python](Solved/Gozaresh%20Kaar) |
 74 | 51865 | [بهداشت و سلامت](https://b2n.ir/064854) | مسابقه | [Python](Solved/Behdasht%20va%20Salamat) |
-75 | 66863 | [کدمستر](https://b2n.ir/t11531) | دانشگاهی | [Python](Solved/Code%20Master) |
-76 | 66864 | [کلاس کد!](https://b2n.ir/t39304) | دانشگاهی | [Python](Solved/Class%20Code%20!) |
-77 | 87181 | [بازی کلمه‌ها](https://b2n.ir/n48725) | technology | [Python](Solved/Bazi%20Kalame%20Ha) |
-78 | 102245 | [فشرده‌سازی خاص](https://b2n.ir/j98682) | مسابقه | [Python](Solved/FeshordeSazi%20Khas) |
-79 | 104589 | [جشنواره](https://b2n.ir/s18740) | مسابقه | [Python](Solved/Jashnvare) |
-80 | 123801 | [اتاق فرار](https://b2n.ir/a16684) | مسابقه | [Python](Solved/Otaghe%20Farar) |
-81 | 127290 | [دَنگ و دُنگ](https://b2n.ir/j65197) | مسابقه | [Python](Solved/Dang%20O%20Dong) |
-82 | 129728 | [تَخَطّی‌گَری](https://b2n.ir/b32744) | technology | [Python](Solved/Takhati%20Gari) |
-83 | 132247 | [The Good, the Bad and the Ugly (1966)](https://b2n.ir/u94929) | مسابقه | [Python](Solved/The%20Good,%20the%20Bad%20and%20the%20Ugly%20(1966)) |
-84 | 132251 | [The Departed (2006)](https://b2n.ir/h32113) | مسابقه | [Python](Solved/The%20Departed%20(2006)) |
-85 | 132252 | [Parquet (2020) ](https://b2n.ir/j06874) | مسابقه | [Python](Solved/Parquet) |
-86 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) |
-87 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) |
-88 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) |
-89 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) |
-90 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) |
-91 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) |
-92 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) |
-93 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) |
+75 | 52543 | [بازی](https://b2n.ir/b99811) | مسابقه | [Python](Solved/bazi) |
+76 | 66863 | [کدمستر](https://b2n.ir/t11531) | دانشگاهی | [Python](Solved/Code%20Master) |
+77 | 66864 | [کلاس کد!](https://b2n.ir/t39304) | دانشگاهی | [Python](Solved/Class%20Code%20!) |
+78 | 87181 | [بازی کلمه‌ها](https://b2n.ir/n48725) | technology | [Python](Solved/Bazi%20Kalame%20Ha) |
+79 | 102245 | [فشرده‌سازی خاص](https://b2n.ir/j98682) | مسابقه | [Python](Solved/FeshordeSazi%20Khas) |
+80 | 104589 | [جشنواره](https://b2n.ir/s18740) | مسابقه | [Python](Solved/Jashnvare) |
+81 | 123801 | [اتاق فرار](https://b2n.ir/a16684) | مسابقه | [Python](Solved/Otaghe%20Farar) |
+82 | 127290 | [دَنگ و دُنگ](https://b2n.ir/j65197) | مسابقه | [Python](Solved/Dang%20O%20Dong) |
+83 | 129728 | [تَخَطّی‌گَری](https://b2n.ir/b32744) | technology | [Python](Solved/Takhati%20Gari) |
+84 | 132247 | [The Good, the Bad and the Ugly (1966)](https://b2n.ir/u94929) | مسابقه | [Python](Solved/The%20Good,%20the%20Bad%20and%20the%20Ugly%20(1966)) |
+85 | 132251 | [The Departed (2006)](https://b2n.ir/h32113) | مسابقه | [Python](Solved/The%20Departed%20(2006)) |
+86 | 132252 | [Parquet (2020) ](https://b2n.ir/j06874) | مسابقه | [Python](Solved/Parquet) |
+87 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) |
+88 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) |
+89 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) |
+90 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) |
+91 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) |
+92 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) |
+93 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) |
+94 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) |
 [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
 ***
