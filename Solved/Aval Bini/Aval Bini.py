@@ -20,3 +20,20 @@ for i in range(a + 1, b):
 print(result)
 
 ###########################################################
+
+s, e = int(input()), int(input())
+
+lst = []
+
+for x in range(s+1, e):
+    flag = False
+    for y in range(2, x//2+1):
+        if x % y == 0:
+            flag = True
+            break
+    if flag == False:
+        lst.append(x)
+
+print(*lst, sep=",")
+
+###########################################################
