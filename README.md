@@ -122,14 +122,15 @@
 80 | 129728 | [تَخَطّی‌گَری](https://b2n.ir/b32744) | technology | [Python](Solved/Takhati%20Gari) |
 81 | 132247 | [The Good, the Bad and the Ugly (1966)](https://b2n.ir/u94929) | مسابقه | [Python](Solved/The%20Good,%20the%20Bad%20and%20the%20Ugly%20(1966)) |
 82 | 132251 | [The Departed (2006)](https://b2n.ir/h32113) | مسابقه | [Python](Solved/The%20Departed%20(2006)) |
-83 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) |
-84 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) |
-85 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) |
-86 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) |
-87 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) |
-88 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) |
-89 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) |
-90 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) |
+83 | 132252 | [Parquet (2020) ](https://b2n.ir/j06874) | مسابقه | [Python](Solved/Parquet) |
+84 | --- | [تکرار حرف در رشته](Solved/Tekrare%20Harf%20Dar%20Reshte/غیره_تکرار%20حرف%20در%20رشته.pdf) | غیره | [Python](Solved/Tekrare%20Harf%20Dar%20Reshte) |
+85 | --- | [جدول ضرب](Solved/Jadval%20Zarb/غیره_جدول%20ضرب.pdf) | غیره | [Python](Solved/Jadval%20Zarb) |
+86 | --- | [سری فیبوناتچی](Solved/Seri%20Fibonacci/غیره_سری%20فیبوناتچی.pdf) | غیره | [Python](Solved/Seri%20Fibonacci) |
+87 | --- | [عدد آرمسترانگ](Solved/Adade%20Armstrang/غیره_عدد%20آرمسترانگ.pdf) | غیره | [Python](Solved/Adade%20Armstrang) |
+88 | --- | [عدد کامل](Solved/Adade%20Kamel/غیره_عدد%20کامل.pdf) | غیره | [Python](Solved/Adade%20Kamel) |
+89 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) |
+90 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) |
+91 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) |
 [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
 ***
