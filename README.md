@@ -44,7 +44,7 @@
 3 | 293 | [اعداد اول](https://b2n.ir/844713) | دانشگاهی | [Python](Solved/Adaade%20Aval) | 
 4 | 294 | [معادله درجه دو](https://b2n.ir/p13657) | دانشگاهی | [Python](Solved/Moadele%20Daraje%20Do) | 
 5 | 588 | [ماکزیمم](https://b2n.ir/078066) | دانشگاهی | [Python](Solved/Maximum) | 
-6 | 589 | [فاکتوریل](https://b2n.ir/983182) | دانشگاهی | [Python](Solved/Factorial) | 
+6 | 589 | [فاکتوریل](https://b2n.ir/983182) | دانشگاهی | [C++, Python](Solved/Factorial) | 
 7 | 590 | [ب.م.م و ک.م.م](https://b2n.ir/y24929) | دانشگاهی | [C++, Python](Solved/Bmm-Kmm) | 
 8 | 591 | [چاپ مربع](https://b2n.ir/111929) | دانشگاهی | [Python](Solved/Chape%20Moraba') | 
 9 | 593 | [یافتن عدد اول](https://b2n.ir/w97657) | دانشگاهی | [Python, Java](Solved/Yaftane%20Adad%20Aval) | 
@@ -177,6 +177,7 @@
 * سجاد رحمانی
 * یوسف قضاوی زاده
 * مهدیس آذربهرا
+* مهان علوی مجد
 
 ### :id: شناسه کاربری
 
