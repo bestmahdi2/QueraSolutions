@@ -2,8 +2,7 @@
 
 <div dir="rtl">
 
-این یک مخزن برای **حل سوال های سایت کوئرا** که به زبان های مختلف است که از سایت نمره 100 می گیرد و فعلا از پایتون
-استفاده میکند
+این یک مخزن برای **حل سوال های سایت کوئرا** که به زبان های مختلف است که از سایت نمره 100 می گیرند ، زبان اصلی پروژه پایتون است ، بعضی سوال ها ممکن است با جاوا ، C++ و ... نیز نوشته شده باشند.  
 
 ## :mag_right: فهرست جداول
 
@@ -181,9 +180,12 @@
 
 ### :id: شناسه کاربری
 
-* [pouya_ghahari](https://quera.org/profile/pouya_ghahari)
-* [Special-N9NE](https://github.com/Special-N9NE)
-* [AMK9978](https://github.com/AMK9978)
-* [Mohuva13](https://github.com/Mohuva13)
+* [Pouya](https://github.com/PouyaGhahari)
+* [Special_N9NE](https://github.com/Special-N9NE)
+* [Amir Mohammad Karimi](https://github.com/AMK9978)
+* [mehan](https://github.com/mehanalavimajd)
+* [Alireza Abdi](https://github.com/alirezaabdi01)
+* [Mohammad Hussein Vaez](https://github.com/Mohuva13)
 
+ 
 </div>
