@@ -53,7 +53,7 @@
 12 | 597 | [حلزون مختصاتی](https://b2n.ir/x14220) | دانشگاهی | [Python](Solved/Halazoon%20Mokhtasati) | 
 13 | 607 | [ضرب ماتریس ها](https://b2n.ir/d37143) | دانشگاهی | [Python](Solved/Zarbe%20Matrix) | 
 14 | 615 | [تاریخ تولد](https://b2n.ir/815094) | دانشگاهی | [Python](Solved/Tarikh%20Tavalod) | 
-15 | 616 | [توان دو](https://b2n.ir/083186) | دانشگاهی | [Python](Solved/Tavan%20Do) | 
+15 | 616 | [توان دو](https://b2n.ir/083186) | دانشگاهی | [C++, Python](Solved/Tavan%20Do) | 
 16 | 617 | [عدد خودمقلوب](https://b2n.ir/932882) | دانشگاهی | [Python](Solved/Adade%20Khod%20Maghloob) | 
 17 | 618 | [چاپ لوزی](https://b2n.ir/304206) | دانشگاهی | [Python](Solved/Chape%20Lozi) | 
 18 | 647 | [سیگماگیر](https://b2n.ir/r07366) | دانشگاهی | [Python](Solved/SigmaGir) | 
