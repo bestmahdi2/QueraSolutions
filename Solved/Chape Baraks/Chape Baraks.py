@@ -4,10 +4,13 @@
 # https://b2n.ir/637768
 
 lister = []
+
 while True:
     number = input()
     if number == "0":
         break
+
     lister.append(number)
+
 for i in lister[::-1]:
     print(i)

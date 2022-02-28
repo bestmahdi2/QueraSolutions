@@ -25,9 +25,9 @@ s, e = int(input()), int(input())
 
 lst = []
 
-for x in range(s+1, e):
+for x in range(s + 1, e):
     flag = False
-    for y in range(2, x//2+1):
+    for y in range(2, x // 2 + 1):
         if x % y == 0:
             flag = True
             break
@@ -36,4 +36,24 @@ for x in range(s+1, e):
 
 print(*lst, sep=",")
 
+
 ###########################################################
+
+def isPrime(number):
+    for j in range(2, number):
+        if number % j == 0:
+            return False
+    return True
+
+
+a, b = int(input()), int(input())
+
+result = []
+
+for number in range(a + 1, b):
+    count = 0
+
+    if isPrime(number):
+        result.append(str(number))
+
+print(",".join(result))

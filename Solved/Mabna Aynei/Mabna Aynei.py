@@ -51,7 +51,9 @@ a = int(input())
 b = int(input())
 qwert = convertBase(s, a, b)
 qwert = str(qwert)
+
 if (qwert) == qwert[::-1]:
     print("YES")
+
 else:
     print("NO")

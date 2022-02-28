@@ -9,7 +9,7 @@ lister = ["sib", "samanoo", "senjed", "sabze", "somagh", "sir", "serke"]
 for i in range(number):
     print(lister[i])
 
-###############################
+###########################################################
     
 m = int(input())
 for x in range(m):

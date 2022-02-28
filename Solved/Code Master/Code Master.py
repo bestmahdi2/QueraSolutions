@@ -4,6 +4,43 @@
 # https://b2n.ir/t11531
 
 
+def reVal(number):
+    if 0 <= number <= 9:
+        return chr(number + ord('0'))
+    else:
+        return chr(number - 10 + ord('A'))
+
+
+def baseConvert(result, input_num, base):
+    if base != 10:
+        while input_num > 0:
+            result += reVal(input_num % base)
+            input_num = int(input_num / base)
+        return result[::-1]
+
+    return str(input_num)
+
+
+n, k = [int(i) for i in input().split(" ")]
+temp_khafan = 0
+number = 2
+
+while temp_khafan <= n:
+    for j in range(2, number):
+        if number % j == 0:
+            break
+    else:
+        changedBase = baseConvert("", input_num=number, base=k)
+        if changedBase == changedBase[::-1]:
+            temp_khafan += 1
+        if temp_khafan == n:
+            break
+    number += 1
+
+print(number)
+
+###########################################################
+
 n, k = [int(i) for i in input().split()]
 
 dics = {

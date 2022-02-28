@@ -17,4 +17,5 @@ while i < len(string):
     else:
         keeper.append(str(8 - int(string[i])))
     i += 1
+
 print(" ".join(keeper))

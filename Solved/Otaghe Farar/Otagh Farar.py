@@ -14,8 +14,10 @@ def hi(ls, sl):
     res3 = str(ls[2] + sl[2])
     ress = (res1[-1]) + (res2[-1]) + (res3[-1])
     ress = int(ress)
+
     if ress % 6 == 0:
         return "Boro joloo :)"
+
     else:
         return "Gir oftadi :("
 
@@ -26,6 +28,7 @@ for i in range(len(a)):
     loose = 0
     r = a.pop(0)
     a.append(r)
+
     for j in range(len(a)):
         counter += 1
         r2 = b.pop(0)
@@ -38,9 +41,11 @@ for i in range(len(a)):
             if counter == 25:
                 loose += 1
                 break
+
     if win != 0:
         print("Boro joloo :)")
         break
+
     elif loose != 0:
         print("Gir oftadi :(")
         break

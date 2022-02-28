@@ -16,4 +16,3 @@ print(f'Product : {"%.6f" % product}')
 print(f'MAX : {"%.6f" % max(numbers)}')
 print(f'MIN : {"%.6f" % min(numbers)}')
 
-###########################################################

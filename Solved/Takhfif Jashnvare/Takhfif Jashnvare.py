@@ -14,4 +14,4 @@ for i in range(len(c) - 1):
     else:
         break
 
-print((s))
+print(s)

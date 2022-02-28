@@ -16,4 +16,5 @@ print('saal:{0}\nmaah:{1}'.format(string[:2], string[2:]))
 string = input()
 saal = string[:2]
 maah = string[2:]
+
 print('saal:%s\nmaah:%s' % (saal, maah))
