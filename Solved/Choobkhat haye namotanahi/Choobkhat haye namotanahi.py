@@ -1,3 +1,6 @@
+#ID : 80645
+#https://quera.org/problemset/80645/
+
 import math
 board = [0,0]
 earaser = [0,0]
