@@ -1,0 +1,10 @@
+a, a2, a3, a4 = map(int , input().split())
+if a >= 1 and a <= 100 and a2 >= 1 and a2 <= 100 and a3 >= 1 and a3 <= 100 and a4 >= 1and a4 <= 100:
+ if a == a3:
+    print('Vertical')
+ elif a2 == a4:
+    print('Horizontal')
+ else:
+     print('Try again')
+else:
+    print('Try again')
