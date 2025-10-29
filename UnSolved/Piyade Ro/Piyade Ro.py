@@ -3,35 +3,21 @@
 # https://quera.org/problemset/104590/
 # https://b2n.ir/n02156
 
-n, m = map(int, input().split())
-h = [int(q) for q in input().split()]
-res = []
-
-for j in range(m):
-    f = True
-    n, k = map(int, input().split())
-
-    if n < k:
-        for i in range(n - 1, k - 1):
-            if h[i] == h[i + 1]:
-                res.append("NO")
-                f = False
-                break
-
-        if f:
-            res.append("YES")
-
-    elif n > k:
-        for i in range(n - 1, k - 1, -1):
-            if h[i] == h[i - 1]:
-                res.append("NO")
-                f = False
-                break
-
-        if f:
-            res.append("YES")
-
+n,q = map(int, input().split())
+a = list(map(int, input().split()))
+b = [0]*n
+j=0
+for i in range(1,n):
+    if a[i] != a[i-1]:
+        b[i] = j
+        b[i-1] = j
     else:
-        res.append("NO")
-
-print("\n".join(res))
+        j+=1
+        b[i] = j
+for _ in range(q):
+    s,e = map(int, input().split())
+    s,e = map(lambda x:x-1, (s,e))
+    if b[s] == b[e]:
+        print("YES")
+    else:
+        print("NO")
