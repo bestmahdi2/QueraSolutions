@@ -162,6 +162,9 @@
 120 | --- | [مجموع ارقام](Solved/Majmo'e%20Arghaam/غیره_مجموع%20ارقام.pdf) | غیره | [Python](Solved/Majmo'e%20Arghaam) | 5 | 
 121 | --- | [مجموع اعداد](Solved/Majmo'e%20Adaad/غیره_مجموع%20اعداد.pdf) | غیره | [Python](Solved/Majmo'e%20Adaad) | 3 | 
 122 | --- | [میانگین اعداد](Solved/Miangine%20Adaad/غیره_میانگین%20اعداد.pdf) | غیره | [Python](Solved/Miangine%20Adaad) | 3 | 
+123 | 104590 | [پیاده رو](https://b2n.ir/n02156) | مسابقه | [Python](Solved/Piyade%20Ro) | 1
+124 | 632 | [جستوجوی معکوس](https://b2n.ir/s86937) | دانشگاهی | [Python](Solved/JosteJoo%20Makoos) | 1 
+125 | 592 | [هم نهشتی اعداد](https://b2n.ir/295907) | دانشگاهی | [Python, c++](Solved/Ham%20Neheshti%20Adaad) | 2 | فقط c++ کامل است
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
@@ -171,13 +174,10 @@
 
 ردیف | شناسه کوئرا | عنوان سوال | دسته بندی | زبان ها | تعداد روش حل | مشکلات حل سوال
  --- | --- | --- | --- | --- | --- | ---
-1 | 592 | [هم نهشتی اعداد](https://b2n.ir/295907) | دانشگاهی | [Python](UnSolved/Ham%20Neheshti%20Adaad) | 1 | کامل نیست !
-2 | 632 | [جستوجوی معکوس](https://b2n.ir/s86937) | دانشگاهی | [Python](UnSolved/JosteJoo%20Makoos) | 1 | چند جواب غلط ، نمره 57
-3 | 1364 | [ترمیم یک خاطره](https://b2n.ir/b79174) | مسابقه | [Python](UnSolved/Tarmim%20Yek%20Khatere) | 1 | مشکل زمان مجاز در پایتون و چند جواب غلط ، نمره 60
-4 | 2436 | [بهمن مرگبار](https://b2n.ir/s12860) | مسابقه | [Python](UnSolved/Bahman%20Margbar) | 1 | مشکل زمان مجاز در پایتون ، نمره 60
-5 | 66865 | [سماق فارم](https://b2n.ir/z39526) | دانشگاهی | [Python](UnSolved/Somagh%20Farm) | 1 | چند جواب غلط ، نمره 80
-6 | 82384 | [G : Gift Puzzle](https://b2n.ir/q94699) | مسابقه | [Python](UnSolved/Problem%20A%20-%20Petrol) | 1 | کامل نیست !
-7 | 104590 | [پیاده رو](https://b2n.ir/n02156) | مسابقه | [Python](UnSolved/Piyade%20Ro) | 1 | مشکل زمان مجاز در پایتون ، نمره 38
+1 | 1364 | [ترمیم یک خاطره](https://b2n.ir/b79174) | مسابقه | [Python](UnSolved/Tarmim%20Yek%20Khatere) | 1 | مشکل زمان مجاز در پایتون و چند جواب غلط ، نمره 60
+2 | 2436 | [بهمن مرگبار](https://b2n.ir/s12860) | مسابقه | [Python](UnSolved/Bahman%20Margbar) | 1 | مشکل زمان مجاز در پایتون ، نمره 60
+3 | 66865 | [سماق فارم](https://b2n.ir/z39526) | دانشگاهی | [Python](UnSolved/Somagh%20Farm) | 1 | چند جواب غلط ، نمره 80
+4 | 82384 | [G : Gift Puzzle](https://b2n.ir/q94699) | مسابقه | [Python](UnSolved/Problem%20A%20-%20Petrol) | 1 | کامل نیست !
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
