@@ -165,6 +165,9 @@
 123 | 104590 | [پیاده رو](https://b2n.ir/n02156) | مسابقه | [Python](Solved/Piyade%20Ro) | 1
 124 | 632 | [جستوجوی معکوس](https://b2n.ir/s86937) | دانشگاهی | [Python](Solved/JosteJoo%20Makoos) | 1 
 125 | 592 | [هم نهشتی اعداد](https://b2n.ir/295907) | دانشگاهی | [Python, c++](Solved/Ham%20Neheshti%20Adaad) | 2 | فقط c++ کامل است
+126 | 5000 | [تقسیم کیک](https://b2n.ir/221464) | مسابقه | [c++](Solved/Taghsim%20keik) | 1 
+127 | 5001 | [جمع براکت‌ها](https://B2n.ir/221454) | مسابقه | [Python](Solved/Jame%20Braket-ha) | 1 | 
+128 | 5002 | [پورت](https://B2n.ir/291597) | تکنولوژی | [javascript](Solved/Port) | 1 |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
